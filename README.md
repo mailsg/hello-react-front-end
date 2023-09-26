@@ -29,7 +29,7 @@ https://github.com/mailsg/hello-rails-back-end.git
 
 # Screenshot
 End-point
-![Alt text](SS_1.png)
+![Alt text](SS_2.png)
 ## 🛠 Built With <a name="built-with"></a>
 
   <ul>
